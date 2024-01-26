@@ -16,3 +16,4 @@ arr2.forEach((iteam,i)=>{
     sum=sum+iteam+i
 })
 console.log(sum);
+
